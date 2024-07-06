@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/roberto-carlos-apodaca-lugo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roberto-carlos-apodaca-lugo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@robertoapodacalugo4511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@robertoapodacalugo4511" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/jw5ogbwkavq4wy2v6m6aoj18e?si=f454c67ac54b48a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
