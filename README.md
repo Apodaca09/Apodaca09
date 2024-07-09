@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Roberto Apodaca</h1>
 <h3 align="center">Ingeniero en Sistemas y Técnico Informático</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apodaca09&label=Profile%20views&color=0e75b6&style=flat" alt="apodaca09" /> </p>
-
 - 🔭 Actualmente trabajo en un projecto estudiantil del TecNM, con el que he ganado junto con mi equipo la etapa local del InnovaTec 2024 en mi universidad, el cual se llama **Agrohealth**
 
 - 🌱 Estoy aprendiendo a utilizar actualmente **Git, Github y Java**
