@@ -7,7 +7,7 @@
 
 - 💬 Tengo experiencia desarrollando proyectos individualmente y trabajando en equipo. Los cuales puedes explorar en su respectivo repositorio. **Agrohealth,Armado de cubo rubik, Apps móviles, Software de control CNC**
 
-- ⚡ Me gusta aprender acerca de la producción musical. Toco la **guitarra electroacústica.🎸**
+- ⚡ Me gusta aprender acerca de la producción musical. Toco la **guitarra electroacústica 🎸**
 
 <h1 align="center">Hello 👋, I'm Roberto Apodaca</h1>
 <h3 align="center">Systems Engineer and IT Technician</h3>
@@ -15,11 +15,11 @@
 
 🌱 I am currently learning to use Git, Github, and Java
 
-💬 I have experience developing projects individually and working in teams. You can explore them in their respective repositories. Agrohealth, Rubik's Cube Assembly, Mobile Apps, CNC Control Software
+💬 I have experience developing projects individually and working in teams. You can explore them in their respective repositories. **Agrohealth, Rubik's Cube Assembly, Mobile Apps, CNC Control Software**
 
-⚡ I enjoy learning about music production. I play the electroacoustic guitar.🎸
+⚡ I enjoy learning about music production. I play the **electroacoustic guitar 🎸**
 
-<h3 align="left">Puedes seguirme támbien en:</h3>
+<h3 align="left">Puedes seguirme támbien en / You can also follow me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roberto-carlos-apodaca-lugo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roberto-carlos-apodaca-lugo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@robertoapodacalugo4511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@robertoapodacalugo4511" height="30" width="40" /></a>
