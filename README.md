@@ -1,23 +1,24 @@
 <h1 align="center">Hola 👋, soy Roberto Apodaca</h1>
 <h3 align="center">Ingeniero en Sistemas y Técnico Informático</h3>
 
-- 🔭 Actualmente trabajo en un projecto estudiantil del TecNM, con el que he ganado junto con mi equipo la etapa local del InnovaTec 2024 en mi universidad, el cual se llama **Agrohealth**
+- 🔭 Actualmente trabajo en un projecto estudiantil del TecNM, con el que he ganado junto con mi equipo la etapa local del InnovaTec 2024 en mi universidad, el cual se llama [Agrohealth](https://apodaca09.github.io/Agrohealth.github.io/)
 
 - 🌱 Estoy aprendiendo a utilizar actualmente **Git, Github y Java**
 
-- 💬 Tengo experiencia desarrollando proyectos individualmente y trabajando en equipo. Los cuales puedes explorar en su respectivo repositorio. **Agrohealth,Armado de cubo rubik, Apps móviles, Software de control CNC**
+- 💬 Tengo experiencia desarrollando proyectos individualmente y trabajando en equipo. Los cuales puedes explorar en su respectivo repositorio. **Agrohealth, Apps móviles**
 
 - ⚡ Me gusta aprender acerca de la producción musical. Toco la **guitarra electroacústica 🎸**
 
 <h1 align="center">Hello 👋, I'm Roberto Apodaca</h1>
 <h3 align="center">Systems Engineer and IT Technician</h3>
-🔭 I am currently working on a student project at TecNM, with which my team and I won the local stage of InnovaTec 2024 at my university. It's called Agrohealth
 
-🌱 I am currently learning to use Git, Github, and Java
+- 🔭 I am currently working on a student project at TecNM, with which my team and I won the local stage of InnovaTec 2024 at my university. It's called [Agrohealth](https://apodaca09.github.io/Agrohealth.github.io/)
 
-💬 I have experience developing projects individually and working in teams. You can explore them in their respective repositories. **Agrohealth, Rubik's Cube Assembly, Mobile Apps, CNC Control Software**
+- 🌱 I am currently learning to use Git, Github, and Java
 
-⚡ I enjoy learning about music production. I play the **electroacoustic guitar 🎸**
+- 💬 I have experience developing projects individually and working in teams. You can explore them in their respective repositories. **Agrohealth, Mobile Apps**
+
+- ⚡ I enjoy learning about music production. I play the **electroacoustic guitar 🎸**
 
 <h3 align="left">Puedes seguirme támbien en / You can also follow me on:</h3>
 <p align="left">
