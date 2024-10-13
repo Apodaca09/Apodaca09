@@ -1,24 +1,33 @@
-<h1 align="center">Hola 👋, soy Roberto Apodaca</h1> <h3 align="center">Ingeniero en Sistemas y Técnico Informático</h3>
+<h1 align="center">Hola 👋, soy Roberto Apodaca</h1>
+<h3 align="center">Ingeniero en Sistemas y Técnico Informático</h3>
+
 Soy un ingeniero en sistemas apasionado por el desarrollo de software y la tecnología. Tengo experiencia en la creación de proyectos que integran hardware y software, desde soluciones IoT hasta aplicaciones móviles. Actualmente, estoy enfocado en aprender más sobre arquitectura de software, diseño de interfaces de usuario, y bases de datos tanto relacionales como no relacionales. Disfruto el reto de encontrar soluciones innovadoras y siempre estoy buscando nuevas formas de mejorar mis habilidades.
 
 [Agrohealth](https://apodaca09.github.io/Agrohealth.github.io/) es un proyecto que busca transformar el sector agrícola mediante soluciones tecnológicas. Utiliza sensores IoT para monitorizar factores clave como la humedad del suelo y la temperatura, permitiendo a los agricultores tomar decisiones más eficientes y sustentables. Además de trabajar en este proyecto, disfruto aprender constantemente sobre temas relacionados con el desarrollo de software.
 
-🔭 Actualmente estoy trabajando en Agrohealth, donde he aprendido sobre integración de sistemas IoT, diseño de interfaces y gestión de bases de datos.
-🌱 Estoy aprendiendo más sobre arquitectura de software, diseño de interfaces de usuario, y bases de datos relacionales y no relacionales.
+🔭 Actualmente estoy trabajando en Agrohealth, donde he aprendido sobre integración de sistemas IoT, diseño de interfaces y gestión de bases de datos.  
+🌱 Estoy aprendiendo más sobre arquitectura de software, diseño de interfaces de usuario, y bases de datos relacionales y no relacionales.  
 💬 Me gusta explorar nuevas tecnologías, como Git, Github, Java, y también disfruto crear proyectos que van desde soluciones para la agricultura hasta aplicaciones móviles.
-Otras Áreas de Interés
-⚡ Me interesa la producción musical y disfruto aprender sobre la creación de sonidos y teoria musical en mi tiempo libre.
 
-<h1 align="center">Hello 👋, I'm Roberto Apodaca</h1> <h3 align="center">Systems Engineer and IT Technician</h3>
+**Otras Áreas de Interés**  
+⚡ Me interesa la producción musical y disfruto aprender sobre la creación de sonidos y teoría musical en mi tiempo libre.
+
+---
+
+<h1 align="center">Hello 👋, I'm Roberto Apodaca</h1>
+<h3 align="center">Systems Engineer and IT Technician</h3>
+
 I am a systems engineer passionate about software development and technology. I have experience in creating projects that integrate hardware and software, from IoT solutions to mobile applications. Currently, I am focused on learning more about software architecture, user interface design, and both relational and non-relational databases. I enjoy the challenge of finding innovative solutions and am always looking for ways to improve my skills.
 
 [Agrohealth](https://apodaca09.github.io/Agrohealth.github.io/) is a project aimed at transforming the agricultural sector through technological solutions. It uses IoT sensors to monitor key factors such as soil moisture and temperature, enabling farmers to make more efficient and sustainable decisions. In addition to working on this project, I constantly enjoy learning about topics related to software development.
 
-🔭 I am currently working on Agrohealth, where I have learned about IoT systems integration, interface design, and database management.
-🌱 I am currently learning more about software architecture, user interface design, and relational and non-relational databases.
+🔭 I am currently working on Agrohealth, where I have learned about IoT systems integration, interface design, and database management.  
+🌱 I am currently learning more about software architecture, user interface design, and relational and non-relational databases.  
 💬 I enjoy exploring new technologies, like Git, Github, Java, and I also enjoy creating projects that range from agricultural solutions to mobile applications.
-Other Interests
+
+**Other Interests**  
 ⚡ I am interested in music production and enjoy learning about sound creation and music theory in my free time.
+
 
 <h3 align="left">Puedes seguirme támbien en / You can also follow me on:</h3>
 <p align="left">
